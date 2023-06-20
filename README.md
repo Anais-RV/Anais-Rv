@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anais-rv&show_icons=true&locale=en" alt="anais-rv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anais-rv&" alt="anais-rv" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anais-rv&" alt="anais-rv" />
