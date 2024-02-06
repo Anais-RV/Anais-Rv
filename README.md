@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anaïs</h1>
-<h3 align="center">A few months ago I decided to change my life as a freelancer in the fashion industry and take up IT again 👩‍💻 since I am Technician in Computer Applications Development. Reason why I studied a master's degree in Artificial Intelligence and Big Data and I am currently studying a FullStack in Web Development.</h3>
+<h3 align="center">After a few years as a freelancer in the fashion industry I decided to return to the world it 👩‍💻 I am a Computer Applications Development Technician and in 2022/23 I retrained with a master's degree in Artificial Intelligence and Big Data and a FullStack BootCamp in Web Development.
 
-- 🌱 I’m currently learning **FullStack Web at Factoría F5**
+🌱 I am currently looking for a job while developing personal projects to keep learning.
 
-- 📫 How to reach me **anaisrv@gmail.com**
+📫 How to contact me anaisrv@gmail.com
 
-- ⚡ Fun fact **☕ as lifestyle, proud mother of two cats called Silver & Indi 😻 😻 Go the gym to "turn off" the world for a while listening to music with "outside sound cancellation." is my medicine 💪 Batch cooking is my weekend meditation 🥑🥣🥗**
+⚡ Fun fact ☕ as a lifestyle, proud mother of two cats named Lupin & Indi 😻😻 Going to the gym to "disconnect" from the world for a while listening to music with "outside sound cancellation" is my medicine 💪 Batch cooking is my weekend meditation 🥑🥣🥗
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
