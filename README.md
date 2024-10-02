@@ -2,7 +2,7 @@
 
 <p align="center">After freelancing in fashion, I returned to IT 👩‍💻 I hold a degree in Computer Applications Development and completed a master's in AI and Big Data, alongside a FullStack Web Development BootCamp.</p>
 
-<p align="center">🌱 I’m currently working on [recircular](https://recircular.net/) as developper</p>
+<p align="center">🌱 I’m currently working on [Factoria F5](https://factoriaf5.org/) as developper co-trainer</p>
 
 <p align="center">📫 Reach me at <a href="mailto:anaisrv@gmail.com">anaisrv@gmail.com</a></p>
 
