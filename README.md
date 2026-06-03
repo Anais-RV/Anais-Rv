@@ -11,7 +11,6 @@
 ---
 
 ### 💼 Lo que hago
-- Formadora y desarrolladora fullstack en [Factoría F5](https://factoriaf5.org/).
 - Diseño experiencias de aprendizaje con **pedagogía activa**, evaluación auténtica y trabajo por proyectos.
 - Integro **IA aplicada** en el aula con enfoque de **ética, accesibilidad e impacto social**.
 - Guío equipos con buenas prácticas: **código legible**, testing, git-flow y CI.
